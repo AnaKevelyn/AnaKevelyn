@@ -1,7 +1,7 @@
 # May the force be with you.
 
 <p align="center">
-  <img align="center" src="./Shuri_T'challa.gif" width="330" height="200">
+  <img align="center" src="./Shuri_Tchalla.gif" width="330" height="200">
 </p>
 <p>
   Hi, I'm Ana Kevelyn! Thanks for visiting my profile. I'm based in Brasilia, Brazil.
