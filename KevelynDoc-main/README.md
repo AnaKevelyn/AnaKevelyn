@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://github.com/AnaKevelyn" target="_blank">
-    <img src="https://img.shields.io/github/followers/AnaKevelyn?color=%23000&label=KevsonDoc&logo=github&logoColor=%23000&style=for-the-badge">
+    <img src="https://img.shields.io/github/followers/AnaKevelyn?color=%23000&label=AnaKevelyn&logo=github&logoColor=%23000&style=for-the-badge">
   </a>
 
   <a href="mailto:anakevelyn432@gmail.com" target="_blank">
