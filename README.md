@@ -4,13 +4,13 @@
   <img align="center" src="./Shuri_Tchalla.gif" width="330" height="200">
 </p>
 <p>
-  Hi, I'm Ana Kevelyn! Thanks for visiting my profile. I'm based in Brasilia, Brazil.
+  Hi, I'm Ana Kevelyn! Thanks for visiting my profile. I'm Paraense but Brasilia is my home.
 </p>
 <p>
-  I am a software developer and computer technician with a passion for Science and Technology. I'm actively involved in the Underground Devs initiative.
+  I am a passionate about Science and Technology. And I dream of being at least 1% closer to having Shuri's knowledge, along with my two brothers whom I admire as if they were T'challa.
 </p>
 <p>
-  Below, you'll find some repositories that I consider crucial to my learning journey. If you'd like to see more, please head over to the repositories tab. There you'll find other projects I've developed (some during moments of inspiration or boredom!) and useful code snippets for reuse.
+  My goals are to share and evolve my knowledge and projects, authored by myself and some work colleagues. Some repositores are being updated over the years with improvements according to my knowledge, so stay tuned! In any case, I also appreciate any collaboration and tips for improvement.
 </p>
 <p>
   Feel free to connect with me via my social networks if you'd like to chat about science, technology, entrepreneurship, TV series, movies, or music.
