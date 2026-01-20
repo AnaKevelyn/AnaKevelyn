@@ -10,7 +10,7 @@
   I am a passionate about Science and Technology. And I dream of being at least 1% closer to having Shuri's knowledge, along with my two brothers whom I admire as if they were T'challa.
 </p>
 <p>
-  My goals are to share and evolve my knowledge and projects, authored by myself and some work colleagues. Some repositores are being updated over the years with improvements according to my knowledge, so stay tuned! In any case, I also appreciate any collaboration and tips for improvement.
+  My goals are to share and evolve my knowledge and projects, authored by myself and work colleagues. Some repositores are being updated over the years with improvements according to my knowledge, so stay tuned! In any case, I also appreciate any collaboration and tips for improvement.
 </p>
 <p>
   Feel free to connect with me via my social networks if you'd like to chat about science, technology, entrepreneurship, TV series, movies, or music.
